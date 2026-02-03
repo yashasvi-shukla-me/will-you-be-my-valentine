@@ -1,44 +1,69 @@
-# Will you be my valentine?
+# Valentine Page Creator
 
-**Valentine Page Creator**: https://i143.xyz/create
+A lightweight web application to create personalized Valentine-themed pages using pre-designed templates. The platform allows users to customize text, images, and layouts and deploy a shareable page within minutes.
 
+Live Demo: https://yashasvi-shukla-me.github.io/will-you-be-my-valentine/
 
-## Custom Templates
-Click on the template of your choice, and create your valentine pages under 1 minute. : https://i143.xyz/templates
+---
 
-- **100% Free**. 🆓
-- Easy to Use. **No Codeing** required. 🎉
-- With **custom subdomain** of your choice (Obviously not claimed by anyone else). 🌍
-- With **custom texts** of your choice. 💬
-- With **custom images** of your choice. 👩‍❤️‍👨
-- With **40 Beautiful** templates to start from. 🤩
+## Overview
 
+Valentine Page Creator is a simple, user-friendly frontend project focused on rapid customization and clean UI design. It enables users to generate visually appealing Valentine pages without writing any code.
 
-# Demo
-Github Pages : https://saurabhnemade.github.io/will-you-be-my-valentine/
+The project emphasizes ease of use, responsive design, and fast deployment.
 
+---
 
-# Description
-This is a fun project for valentines day to bring smile on face of your special person!!
+## Features
 
-This project is inspired from
-https://gist.github.com/tnarla/0c09a11fea366145ba684fe6ebf578c5 & https://www.tiktok.com/@mewtru/video/7331131143112166698
+- Fully client-side web application
+- Multiple pre-designed Valentine templates
+- Custom text and image support
+- Responsive layout for mobile and desktop
+- Simple and fast deployment using GitHub Pages
+- No backend or authentication required
 
-# How to start
-```
+---
+
+## Tech Stack
+
+- HTML
+- CSS
+- JavaScript
+- PNPM for dependency management
+- GitHub Pages for deployment
+
+---
+
+## Getting Started
+
+### Prerequisites
+- Node.js
+- PNPM
+
+### Installation
+
+```bash
 npm install -g pnpm
-pnpm i
+pnpm install
+```
+
+### Run Locally
+```bash
 pnpm run dev
 ```
 
-# Preview
-
-![image description](demo.gif)
-
-
-# How to deploy it
-```
+### Deployment
+```bash
 pnpm run deploy
 ```
 
-Made with ❤️ in Berlin!
+The application can be deployed easily using GitHub Pages.
+
+### Preview
+<img width="1311" height="688" alt="Screenshot 2026-02-03 at 1 05 42 PM" src="https://github.com/user-attachments/assets/644ae687-ebb0-4394-8ee0-85d29fd08b5b" />
+
+YASHASVI SHUKLA (Yashasvi Shukla)
+
+### Notes
+This project was built as a creative frontend application focusing on UI, customization, and client-side deployment workflows.
